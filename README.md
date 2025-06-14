@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/yourusername/rock-paper-scissors?style=social)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This is my first Python project — a terminal-based Rock Paper Scissors game!
 
