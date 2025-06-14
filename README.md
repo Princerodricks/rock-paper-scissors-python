@@ -3,7 +3,7 @@
 
 This is my first Python project — a terminal-based Rock Paper Scissors game!
 
-![Screenshot](assets/RPS-screenshot.png)
+![Screenshot](assets/RPSscreenshot.png)
 
 ### 🔧 How it Works:
 - User vs Computer
